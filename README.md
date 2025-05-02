@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Currently a Release Engineer from the UK, looking to change career path</h3>
 
-- 🔭 I’m currently working on **Fundimentals**
+- 🔭 I’m currently working on **Fundimentals**(google.co.uk)
 
 - 📫 How to reach me **joecookedev@gmail.com**
 
